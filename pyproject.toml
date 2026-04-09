@@ -1,7 +1,7 @@
 [project]
-name = "api-escolar"
+name = "aws-alumnos-backend"
 version = "0.1.0"
-description = "API REST para alumnos y profesores en memoria"
+description = "Aws Alumnos"
 requires-python = ">=3.10"
 dependencies = [
   "fastapi==0.115.12",
